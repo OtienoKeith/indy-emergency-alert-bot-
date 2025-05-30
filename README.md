@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Indy Emergency Alert Bot 🚨
 
 A chatbot for Facebook Messenger that sends local emergency alerts to residents of Indianapolis by ZIP code.
@@ -23,3 +24,6 @@ A chatbot for Facebook Messenger that sends local emergency alerts to residents 
 pip install -r requirements.txt
 python app.py
 ``` 
+=======
+# indy-emergency-alert-bot-
+>>>>>>> 0a86cc8f49d3f3364f1e6fa2d5126c144f6561ef
