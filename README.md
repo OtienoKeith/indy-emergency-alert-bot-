@@ -121,13 +121,4 @@ MIT License – feel free to fork, remix, and build on top of it.
 
 Keith Otieno
 
-```
 
----
-
-Let me know:
-- If you want the `requirements.txt` generated
-- If you’ll publish to GitHub Pages or add a live demo link
-
-I can tailor the README further!
-```
