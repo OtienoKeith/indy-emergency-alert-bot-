@@ -25,21 +25,6 @@ A simple chatbot built with Flask and the Facebook Messenger API that provides *
 - Ngrok (for webhook testing)
 - GitHub (code hosting)
 
----
-
-## 📂 Project Structure
-
-```
-
-indy-emergency-alert-bot/
-├── alertbot/
-│   ├── app.py                # Main Flask app
-│   ├── .env                  # Contains tokens and config
-│   ├── requirements.txt      # Python dependencies
-│   ├── utils.py              # Optional: helper functions
-├── README.md
-
-````
 
 ---
 
